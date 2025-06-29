@@ -1024,6 +1024,9 @@ span {
     .abt, .abt1, .abt-2, .abt-3, .abt-4, .abt-5 {
         font-size: 20px;
     }
+    .gallery .btn-1{
+        margin-right:100px;
+    }
     
     .btn-1 {
         width: 100px;
